@@ -1,0 +1,1 @@
+Basic React APP containing WebPack 4, Babel,Plugins and Redux framework
